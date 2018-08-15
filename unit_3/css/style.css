@@ -1,0 +1,20 @@
+body {
+	text-align: center;
+	background-color: rgb(117,116,89);
+	font-family: "Helvetica";
+	
+
+}
+
+#slogan {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 19px; 
+	
+}
+
+#teammates {
+	text-align: left;
+}
+
+
